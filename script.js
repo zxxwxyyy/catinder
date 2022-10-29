@@ -1,6 +1,6 @@
 // ----- Liqian Zhang
 // ----- creative coding midterm project - caTiner app
-// ----- 
+// ----- API from https://www.petfinder.com/developers/
 
 let i = 0;
 let secondcatPhotos = false;
