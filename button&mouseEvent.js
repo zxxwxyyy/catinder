@@ -31,7 +31,7 @@ function adpotMe(){
     
     button2 = createButton(' adopt me! ')
     // button2.class('button');
-    button2.style('font','fantasy')
+    button2.style('font','Cursive')
     button2.style('font-size', '25px')
     button2.size(150, 50);
     button2.position(130, 678);
