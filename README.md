@@ -1,2 +1,3 @@
-This is a NYU IDM Creative Coding midterm project. 
-For my midterm, I am thinking of exploring more API by creating a pet adoption APP. I am a cat person, I knew that there are still many homeless pets around the world, and I believe adoption is meaningful and can actually help. They are waiting for a warm home and a great person who will spend time with them for the rest of their life. So I decided to create a mini-app to help. 
+Catinder is a unique adoption web-app designed to help homeless cats find their forever homes. Built using Petfinder's API and p5.js. This Creative Coding Midterm Project offers a fresh and fun approach to pet adoption, inspired by the popular dating app Tinder. The app features a simple, intuitive interface that allows users to swipe through a selection of adorable cats and kittens, each with their own unique profiles. With built-in buttons, users can easily browse through the cats, open the adoption link, or archive a cat for later. Whether you're a cat lover looking for a new furry friend or simply seeking a fun and engaging app experience, Catinder is the perfect choice.
+
+Try it here: https://zxxwxyyy.github.io/midterm-catinder/
