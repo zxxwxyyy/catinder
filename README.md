@@ -20,6 +20,8 @@ The app was prototyped and iterated upon, with the addition of various features 
 - An "archive" feature allowing users to save a cat's information for later reference
 - [The Petfinder API's developer Github](https://github.com/petfinder-com/petfinder-js-sdk) proved invaluable for understanding how to fetch and filter the required data. The finished app features a clean, functional user interface that makes it easy for users to interact with.
 
+![t2i](https://static.wixstatic.com/media/9b1712_1e7e78572878467aa5122a93a7574dcc~mv2.png/v1/fill/w_373,h_284,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9b1712_1e7e78572878467aa5122a93a7574dcc~mv2.png)
+
 ## Reflection
 Creating Catinder was an exciting challenge, particularly with respect to working with an external API. Debugging and problem-solving were significant parts of the process, and it was a valuable learning experience to step back from the problem and approach it with fresh eyes. Sharing the code and logic with others was also beneficial in identifying issues and finding solutions.
 
