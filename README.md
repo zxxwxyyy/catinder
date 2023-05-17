@@ -8,7 +8,7 @@ The project was completed in 2 weeks.
 [Catinder App Demo](https://zxxwxyyy.github.io/catinder/)
 
 
-Note: Due to the filter that excludes cats without photos, sometimes no cat will show, and the application may run into an error. This is because occasionally the API fetches cats that all have no photo uploaded. The functionality is demonstrated in the recorded video above.
+Note: Due to the filter that excludes cats without photos, sometimes no cat will show, and the application may run into an error. This is because occasionally the API fetches cats that all have no photo uploaded.
 
 ## Project Overview
 Initially, the concept was to create an app with user inputs for pet type and location, and random pet information fetched from the API. However, due to complexities with the Petfinder API's authentication process, the focus shifted to a more streamlined display of cat information with a Tinder-like user interface.
